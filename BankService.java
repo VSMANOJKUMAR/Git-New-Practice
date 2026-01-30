@@ -1,5 +1,5 @@
 class BankService {
-    int balance = 12000;   // initial balance
+    int balance = 20000;   // initial balance
 
     void deposit(int amount) {
         balance = balance + amount;
